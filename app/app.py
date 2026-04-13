@@ -29,7 +29,7 @@ df = pd.read_csv(DATA_PATH)
 st.markdown("""
 <style>
 .main {
-    background-color: #0E1117;
+    background-color: #ADD8E6;
 }
 h1, h2, h3 {
     color: #FFFFFF;
