@@ -14,7 +14,10 @@ from src.utils import load_data, filter_data, calculate_kpis
 st.set_page_config(page_title="Customer Intelligence Dashboard", layout="wide")
 
 #load data
-df = load_data('../data/cleaned_data.csv')
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_PATH = os.path.join(BASE_DIR, "data", "cleaned_data.csv")
+
+df = load_data(DATA_PATH)
 
 #TITLE
 st.title("📊 Customer Behavior Intelligence Dashboard")
