@@ -35,7 +35,7 @@ h1, h2, h3 {
     color: #FFFFFF;
 }
 .stMetric {
-    background-color: #1c1f26;
+    background-color: #ADD8E6;
     padding: 15px;
     border-radius: 10px;
 }
