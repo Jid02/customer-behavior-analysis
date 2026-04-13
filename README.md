@@ -59,21 +59,11 @@ Developed an interactive dashboard that:
 - Frequent buyers drive consistent sales  
 - Seasonal trends impact overall revenue  
 
----
-## 💡 Future Improvements
+# 💡 Future Improvements
 
-ML-based customer segmentation
-Recommendation system
-Real-time data integration
----
-
-## ▶️ Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app/app.py
-
----
+- ML-based customer segmentation
+- Recommendation system
+- Real-time data integration
 
 
 📬 Contact
