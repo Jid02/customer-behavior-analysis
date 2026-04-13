@@ -68,6 +68,12 @@ pip install -r requirements.txt
 streamlit run app/app.py
 
 ---
+## 💡 Future Improvements
+ML-based customer segmentation
+Recommendation system
+Real-time data integration
+
+
 📬 Contact
 If you found this project interesting or have feedback, feel free to connect!
 
