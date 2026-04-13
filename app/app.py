@@ -3,8 +3,12 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from src.utils import load_data, filter_data, calculate_kpis
+import sys
+import os
 
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from src.utils import load_data, filter_data, calculate_kpis
 #PAGE CONFIG (WIDE LAYOUT)
 
 st.set_page_config(page_title="Customer Intelligence Dashboard", layout="wide")
