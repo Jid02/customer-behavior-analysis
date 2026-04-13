@@ -66,7 +66,8 @@ Developed an interactive dashboard that:
 - Real-time data integration
 
 
-📬 Contact
+# 📬 Contact
+
 If you found this project interesting or have feedback, feel free to connect!
 
 🔗 Connect With Me:
