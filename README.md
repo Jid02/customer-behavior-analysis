@@ -60,6 +60,12 @@ Developed an interactive dashboard that:
 - Seasonal trends impact overall revenue  
 
 ---
+## 💡 Future Improvements
+
+ML-based customer segmentation
+Recommendation system
+Real-time data integration
+---
 
 ## ▶️ Run Locally
 
@@ -68,10 +74,6 @@ pip install -r requirements.txt
 streamlit run app/app.py
 
 ---
-## 💡 Future Improvements
-ML-based customer segmentation
-Recommendation system
-Real-time data integration
 
 
 📬 Contact
